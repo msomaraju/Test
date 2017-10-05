@@ -14,7 +14,7 @@ import com.dxc.loantransaction.request.IndexedData;
 import com.dxc.loantransaction.request.TranDetails;
 import com.dxc.loantransaction.request.TxLoan;
 import com.dxc.loantransaction.request.WMAData;
-
+//hello
 @WebService(endpointInterface="com.dxc.loantransaction.service.Loan",serviceName="LoanService",portName = "LoanPort")
 public class LoanService implements Loan {
 
